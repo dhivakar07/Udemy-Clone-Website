@@ -30,4 +30,4 @@ This project replicates the core layout and design of Udemy’s homepage, focusi
 
 1. Clone the repository:
    ```bash
-   git clone https://dhivakar07.github.io/Udemy-Clone-Website
+   git clone https://dhivakar07.github.io/Udemy-Clone-Website/
